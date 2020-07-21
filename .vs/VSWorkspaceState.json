@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\css",
+    "\\js"
   ],
-  "SelectedNode": "\\fonts",
+  "SelectedNode": "\\js\\love.js",
   "PreviewInSolutionExplorer": false
 }
